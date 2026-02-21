@@ -4,7 +4,7 @@
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-12.0-239120?style=flat-square&logo=csharp)
 [![NuGet](https://img.shields.io/nuget/v/DKDev.Core?style=flat-square&logo=nuget)](https://www.nuget.org/packages/DKDev.Core)
-[![License](https://img.shields.io/github/license/dkarczewski/dkdev-core?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/ishkabar/dkdev-core?style=flat-square)](LICENSE)
 
 Lightweight utilities and extensions for .NET applications. Zero dependencies.
 
